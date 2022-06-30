@@ -1,0 +1,175 @@
+body{
+	background-color: blue;
+}
+
+h1{
+	color: white;
+	text-align: left;
+}
+h2{
+	color: white;
+}
+p{
+	color: white;
+}
+h3{
+	color: white;
+}
+h4{
+	color: white;
+	top: 120px;
+}
+button{
+	margin-left: 600px;
+	height: 50px;
+	width: 200px
+	background-color: white;
+	color: blue;
+	text-align: center;
+}
+.pix  {
+position:absolute;
+top:-30px;
+left:-50px;
+margin:-10px;
+padding:400px;
+text-align: center;
+
+}
+
+.pix a {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:white;
+background: black url('botao_link.gif')
+ no-repeat center center;	
+width:120px;  
+height:50px;	
+padding: 10px;
+display:block;	
+}
+
+.transfer  {
+position:absolute;
+top:-110px;
+left:140px;
+margin:-30px;
+padding:500px;
+text-align: center;
+
+}
+
+.transfer a {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:white;
+background: black url('botao_link.gif')
+ no-repeat center center;	
+width:120px;  
+height:50px;	
+padding: 10px;
+display:block;	
+
+}
+
+.cartoes  {
+position:absolute;
+top:-110px;
+left:400px;
+margin:-30px;
+padding:500px;
+text-align: center;
+
+}
+
+.cartoes a {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:white;
+background: black url('botao_link.gif')
+ no-repeat center center;	
+width:120px;  
+height:50px;	
+padding: 10px;
+display:block;	
+}
+
+.pagarcontas  {
+position:absolute;
+top:125px;
+left:-50px;
+margin:-10px;
+padding:400px;
+text-align: center;
+
+}
+
+.pagarcontas a {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:white;
+background: black url('botao_link.gif')
+ no-repeat center center;	
+width:120px;  
+height:50px;	
+padding: 10px;
+display:block;	
+}
+
+
+.recargas  {
+position:absolute;
+top:125px;
+left:220px;
+margin:-10px;
+padding:400px;
+text-align: center;
+
+}
+
+.recargas a {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:white;
+background: black url('botao_link.gif')
+ no-repeat center center;	
+width:120px;  
+height:50px;	
+padding: 10px;
+display:block;	
+}
+
+.adddinheiro  {
+position:absolute;
+top: 125px;
+left: 480px;
+margin: -10px;
+padding: 400px;
+text-align: center;
+
+}
+
+.adddinheiro a {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:white;
+background: black url('botao_link.gif')
+ no-repeat center center;	
+width:120px;  
+height:50px;	
+padding: 10px;
+display:block;	
+}
+
